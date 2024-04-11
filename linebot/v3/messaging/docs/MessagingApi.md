@@ -120,7 +120,7 @@ with linebot.v3.messaging.ApiClient(configuration) as api_client:
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **audience_match_messages_request** | [**AudienceMatchMessagesRequest**](AudienceMatchMessagesRequest.md)|  | 
+ **audience_match_messages_request** | [**AudienceMatchMessagesRequest**](../models/audience_match_messages_request.py)|  | 
 
 ### Return type
 
@@ -4754,4 +4754,3 @@ void (empty response body)
 **200** | OK |  -  |
 
 [[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
-
